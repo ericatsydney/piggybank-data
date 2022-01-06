@@ -4,17 +4,23 @@
       {
          "id":1,
          "amount":10,
-         "date":"2022-01-01"
+         "date":"2021-12-28",
+         "description": "car wash"
       },
       {
          "id":2,
-         "amount":-2,
+         "amount": 5.50,
          "date":"2022-01-02"
       },
       {
          "id":3,
-         "amount": 10,
+         "amount": 1,
          "date":"2022-01-03"
+      },
+      {
+         "id":4,
+         "amount": 5,
+         "date":"2022-01-05"
       }
    ]
 }
