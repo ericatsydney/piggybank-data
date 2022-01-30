@@ -43,6 +43,24 @@
          "amount": 0.22,
          "date":"2022-01-17",
          "category": "interest"
-      }
+      },
+      {
+         "id":8,
+         "amount": 5,
+         "date":"2022-01-24",
+         "category": "income"
+      },
+      {
+         "id":9,
+         "amount": 5,
+         "date":"2022-01-31",
+         "category": "income"
+      },
+      {
+         "id":10,
+         "amount": 0.32,
+         "date":"2022-01-24",
+         "category": "interest"
+      },
    ]
 }
