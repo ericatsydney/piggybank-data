@@ -62,5 +62,17 @@
          "date":"2022-01-24",
          "category": "interest"
       },
+      {
+         "id":11,
+         "amount": 5,
+         "date":"2022-02-06",
+         "category": "income"
+      },
+      {
+         "id":12,
+         "amount": 70,
+         "date":"2022-02-08",
+         "category": "lucky money"
+      }
    ]
 }
